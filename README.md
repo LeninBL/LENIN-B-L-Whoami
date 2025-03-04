@@ -50,7 +50,7 @@ Soy estudiante de Ingeniería de Sistemas. Me encanta aprender nuevas tecnologí
 
 
 
-
+#### **Redes**:
 - [LinkedIn](www.linkedin.com/in/dany-lenin-boza-lara-69a798313)
 
 
